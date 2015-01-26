@@ -1,0 +1,7 @@
+1. Introduction to Object-Oriented JavaScript on Mozilla Developer Network
+
+2. Eloquent JavaScript by Marijn Haverbeke
+
+3. http://www.html5canvastutorials.com/
+
+4. https://github.com/Hotell/arcade-game/
